@@ -32,29 +32,29 @@ npm install npm@latest -g
 ```
 ### Installation
 Clone the repo
-bash
-Copy code
+``` bash
 git clone https://github.com/your_username_/FashionForward.git
+```
 Install NPM packages
 bash
 Copy code
 npm install
 Run the development server:
-bash
-Copy code
+``` bash
 npm run dev
 # or
 yarn dev
+```
 Open http://localhost:3000 with your browser to see the result.
 
 ### Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Push to the Branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
 License
 Distributed under the MIT License. See LICENSE for more information.
 
