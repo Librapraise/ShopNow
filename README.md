@@ -1,6 +1,6 @@
 # ShopNow - Clothing and Accessories
 
-Welcome to FashionForward, a cutting-edge e-commerce platform for the latest in clothing and accessories. Built with the power of Next.js and styled with Tailwind CSS, our website offers a seamless and interactive shopping experience for fashion enthusiasts.
+Welcome to ShopNow, a cutting-edge e-commerce platform for the latest in clothing and accessories. Built with the power of Next.js and styled with Tailwind CSS, our website offers a seamless and interactive shopping experience for fashion enthusiasts.
 
 ## Overview
 
